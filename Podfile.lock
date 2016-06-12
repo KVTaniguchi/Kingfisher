@@ -11,10 +11,12 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   Nocilla:
-    :commit: 537ee6d014f6fc1d756f0e59ae23abc566ddc24e
+    :commit: 80699b8eb96ccb50f76b825b9d7cd30b598470e3
     :git: https://github.com/pcantrell/Nocilla.git
 
 SPEC CHECKSUMS:
   Nocilla: ae0a2b05f3087b473624ac2b25903695df51246a
 
-COCOAPODS: 0.37.2
+PODFILE CHECKSUM: c847d2d0c6e091193d8df6fb17e0c4c92f716382
+
+COCOAPODS: 1.0.1
